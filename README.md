@@ -97,7 +97,7 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 🚀 **Day care center management** - Javascript, Java Sprint Boot API, Maven, JPA, Mysql, JWT token implemented  
   Repository: [Git](https://github.com/pautapia1/day-care-center-repository)
 
-🚀 **Day care center management karate test** - Karate, Maven, Mysql driver. Automated test for Day care center management  
+🚀 **Day care center management karate tests** - Karate, Maven, Mysql driver. Automated tests for Day care center management  
   Repository: [Git](https://github.com/pautapia1/day-care-center-karate)
     
   
