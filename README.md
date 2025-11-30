@@ -93,4 +93,13 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
   Professional portfolio: [Behance Profile](https://www.behance.net/mariatapia2)  
   *Specializing in digital illustration, branding, and visual design*
 
+### Projects 2025
+- **Day care center manegement** - Javascript, Java Sprint Boot API, Maven, JPA, Mysql, JWT token implemented  
+  Repository: [Git](https://github.com/pautapia1/day-care-center-repository)
+
+- **Day care center manegement karate test** - Karate, Maven, Mysql driver. Automated test for Day care center manegement  
+  Repository: [Git](https://github.com/pautapia1/day-care-center-karate)
+    
+  
+
 
