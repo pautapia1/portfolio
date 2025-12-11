@@ -73,7 +73,7 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 | **Platforms** | AWS, IntelliJ, PyCharm, VS Code, XAMPP |
 | **QA Processes** | REST API Testing, E2E Testing, Smoke Testing, Test Case Creation, Bug Reporting |
 | **Methodologies** | Agile, Scrum, Software Testing, Documentation |
-| **AI Tools** | ChatGPT, DeepSeek |
+| **AI Tools** | ChatGPT, DeepSeek, Copilot |
 
 ## 🗣 Languages
 
