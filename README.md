@@ -86,7 +86,7 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 
 
 
-#### * Certification B2 TEF Les Français Des Affaires
+#### * French Certification B2 TEF Les Français Des Affaires
 ---
 
 ## 🤝 Collaborations & Family Projects
