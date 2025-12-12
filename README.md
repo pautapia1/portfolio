@@ -14,10 +14,10 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 **QA Automation Engineer** — *Full-time | Remote*  
 📅 *Jan 2023 – Present*
 
-- Leading **backend test automation** using **JavaScript**, **Microsoft SQL Server**, and modern QA tools.
+- Leading **backend test automation** using **Java**, **Microsoft SQL Server**, and modern QA tools.
 - Developing and maintaining automated test scripts to ensure high-quality releases.
 - Collaborating with cross-functional teams to improve testing coverage and system reliability.  
-  *(Skills: JavaScript, Microsoft SQL Server, Test Automation, Agile, API Testing, Karate Framework, and more.)*
+  *(Skills: Karate Framework, Java, Maven, Jenkins, CI/CD pilelines, Gatling, JavaScript, Microsoft SQL Server, Test Automation, Agile, Gherkin, API Testing, Postman, SOAPUI, and more.)*
 
 **Senior QA Analyst** — *Remote*  
 📅 *Jun 2017 – Jan 2023 · 5 yrs 8 mos*
