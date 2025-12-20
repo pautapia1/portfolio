@@ -86,7 +86,7 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 
 
 
-#### * French Certification B2 TEF Les Français Des Affaires
+#### * French Certification B1 TEF Les Français Des Affaires
 ---
 
 ## 🤝 Collaborations & Family Projects
@@ -97,7 +97,7 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
   *Specializing in digital illustration, branding, and visual design*
 
 ### 💻 Projects 2025
-🚀 **Day care center management** - Javascript, Java Sprint Boot API, Maven, JPA, Mysql, JWT token implemented, Swagger documentation implemented.  
+🚀 **Day care center management** - Javascript, Java Sprint Boot API, Maven, JPA, Mysql, JWT token implemented, Swagger documentation implemented. Vue.js framework.  
   Repository: [GitHub-repository](https://github.com/pautapia1/day-care-center-repository)
 
 🚀 **Day care center management karate tests** - Karate, Maven, Mysql driver. Automated tests for Day care center management.  
