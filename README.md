@@ -87,24 +87,29 @@ I specialize in **backend test automation** using **Karate Framework**, ensuring
 | Portuguese | 🔵 A2 | 🔵 Basic | 🟡 Intermediate | 🔵 Basic |
 
 
-
 #### * French Certification B1 TEF Les Français Des Affaires
 ---
 
 ## 🤝 Collaborations & Family Projects
 
 ### 🎨 Creative Partnerships
-- **María Tapia** - Illustrator & Graphic Designer  
-  Professional portfolio: [Behance Profile](https://www.behance.net/mariatapia2)  
-  *Specializing in digital illustration, branding, and visual design*
+- **María Tapia** — *Illustrator & Graphic Designer*  
+  📂 Portfolio: [Behance](https://www.behance.net/mariatapia2)  
+  ✨ *Expertise: Digital Illustration · Branding · Visual Design*
+
+---
 
 ### 💻 Projects 2025
-🚀 **Day care center management** - Javascript, Java Sprint Boot API, Maven, JPA, Mysql, JWT token implemented, Swagger documentation implemented. Vue.js framework.  
-  Repository: [GitHub-repository](https://github.com/pautapia1/day-care-center-repository)
 
-🚀 **Day care center management karate tests** - Karate, Maven, Mysql driver. Automated tests for Day care center management.  
-  Repository: [GitHub-repository](https://github.com/pautapia1/day-care-center-karate)
-    
-  
+#### 🚀 Day Care Center Management
+- **Tech Stack:** Javascript · Java Spring Boot API · Maven · JPA · MySQL  
+- **Features:** JWT Authentication · Swagger Documentation · Vue.js Frontend  
+- 📂 Repository: [GitHub](https://github.com/pautapia1/day-care-center-repository)
 
+---
+
+#### 🧪 Day Care Center Management — Karate Tests
+- **Tech Stack:** Karate · Maven · MySQL Driver  
+- **Purpose:** Automated testing suite for the Day Care Center Management system  
+- 📂 Repository: [GitHub](https://github.com/pautapia1/day-care-center-karate)
 
