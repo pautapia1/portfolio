@@ -20,6 +20,6 @@
 
 ## 🌐 Portafolio
 
-- [🇪🇸 Español](https://github.com/pautapia1/portfolio/blob/main/ES/Portfolio-ES.md)
-- [En Inglés](https://github.com/pautapia1/portfolio/blob/main/EN/Portfolio-EN.md)
-- [🇫🇷 Francés](https://github.com/pautapia1/portfolio/blob/main/FR/Portfolio-FR.md)
+- [🇪🇸 Español](https://github.com/pautapia1/portfolio/blob/main/ES/Portfolio-ES.md) `ES`
+- [🇬🇧 English](https://github.com/pautapia1/portfolio/blob/main/EN/Portfolio-EN.md) `EN`
+- [🇫🇷 Français](https://github.com/pautapia1/portfolio/blob/main/FR/Portfolio-FR.md) `FR`
