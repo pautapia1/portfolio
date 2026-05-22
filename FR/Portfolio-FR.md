@@ -130,3 +130,9 @@ Je combine des compétences techniques solides (Java, SQL Server, Jenkins) avec 
 **María Tapia** – Illustratrice et Designeuse Graphique  
 [🎨 Portfolio Behance](https://www.behance.net/mariatapia2)  
 *Collaborations occasionnelles sur des projets nécessitant l'intégration du design et du développement.*
+
+---
+
+<div align="center">
+  <a href="https://github.com/pautapia1/portfolio/blob/main/README.md" style="background-color: #4A90E2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 25px; display: inline-block; font-weight: bold;">🔙 Volver al menú</a>
+</div>

@@ -9,6 +9,11 @@
     Me alegra que hayas llegado hasta aquí. Explora mi trabajo en el idioma que prefieras.
   </p>
 
+  <p style="font-size: 0.85rem; color: #6B8DB5; margin-top: 8px;">
+    Welcome! Explore my work in the language you prefer.<br>
+    Bienvenue ! Explorez mon travail dans la langue de votre choix.
+  </p>
+
 </div>
 
 <br>
