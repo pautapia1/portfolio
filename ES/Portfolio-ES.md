@@ -2,7 +2,7 @@
   <h1 style="color: #3b82f6;">✦ Paula Tapia ✦</h1>
   <h3 style="color: #1e293b;">Senior QA Automation</h3>
   <p>
-    <a href="mailto:paula.tapia@email.com" style="color: #3b82f6;">📧 paula.tapia@email.com</a> |
+    <a href="mailto:pautapia1@email.com" style="color: #3b82f6;">📧 pautapia1@email.com</a> |
     <a href="https://linkedin.com/in/paula-tapia-2b8555111" style="color: #3b82f6;">🔗 LinkedIn</a>
   </p>
 </div>
