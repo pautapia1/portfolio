@@ -1,115 +1,143 @@
-# 👩‍💻 Portfolio
-
-### 👋 About Me
-I’m **Paula**, a **Senior QA Automation Engineer**, **Programmer**, and **Systems Analyst** with experience since **2008**.  
-I specialize in **backend test automation** using **Karate Framework**, ensuring high-quality, reliable software solutions.
-
-[🔗 My LinkedIn Profile](https://www.linkedin.com/in/paula-tapia-2b8555111/)
-
----
-
-## 💼 My Experience
-
-### 🧩 **Win Systems**
-**QA Automation Engineer** — *Full-time | Remote*  
-📅 *Jan 2023 – Present*
-
-- Leading **backend test automation** using **Java**, **Microsoft SQL Server**, and modern QA tools.
-- Developing and maintaining automated test scripts to ensure high-quality releases.
-- Collaborating with cross-functional teams to improve testing coverage and system reliability.  
-  *(Skills: Karate Framework, Java, Maven, Jenkins, CI/CD pilelines, Gatling, JavaScript, Microsoft SQL Server, Test Automation, Agile, Gherkin, API Testing, Postman, SOAPUI, and more.)*
-
-**Senior QA Analyst** — *Remote*  
-📅 *Jun 2017 – Jan 2023 · 5 yrs 8 mos*
-
-- Designed and executed **manual and automated test cases** for backend systems.
-- Worked extensively with **Microsoft SQL Server** and **JSON** for data validation and API testing.
-- Supported continuous integration testing and QA strategy improvements.  
-  *(Skills: QA Analysis, Microsoft SQL Server, JSON, Regression Testing, API Validation, Agile Methodologies, and more.)*
+<div align="center">
+  <h1 style="color: #1e3a8a;">✦ Paula Tapia ✦</h1>
+  <h3 style="color: #14b8a6;">Senior QA Automation Engineer</h3>
+  <p>
+    <a href="mailto:paula.tapia@email.com" style="color: #3b82f6;">📧 paula.tapia@email.com</a> |
+    <a href="https://linkedin.com/in/paula-tapia-2b8555111" style="color: #3b82f6;">🔗 LinkedIn</a>
+  </p>
+</div>
 
 ---
 
-### 🧠 **Accenture**
-**QA & Functional Analyst | Software Engineering Associate**  
-📅 *2014 – 2017 · 3 yrs | Rosario, Santa Fe, Argentina*
+## <span style="color: #1e3a8a;">🎯 Sobre mí</span>
 
-- Performed **functional and QA analysis** in enterprise environments.
-- Automated **SAP tests** using **HPQC (HP Quality Center)**.
-- Conducted **Oracle SQL TRANSACT training** and **continuous integration testing**.
-- Collaborated on large-scale projects ensuring system reliability and process optimization.  
-  *(Skills: Microsoft SQL Server, Scrum, SAP Automation, Oracle SQL, QA Testing, Continuous Integration, and more.)*
+Senior QA Automation Engineer, especialista en **automatización backend con Karate Framework**, integración continua y pruebas de APIs.  
+Combino habilidades técnicas sólidas (Java, SQL Server, Jenkins) con el uso activo de **herramientas de inteligencia artificial** para acelerar el desarrollo de pruebas, generar documentación y optimizar pipelines de CI/CD.
 
 ---
 
-### 💻 **Freelance / Independent Consultant**
-**Systems Analyst & Developer**  
-📅 *Aug 2008 – May 2014 · 5 yrs 10 mos | Posadas, Misiones, Argentina*
+## <span style="color: #1e3a8a;">💼 Experiencia laboral</span>
 
-- Developed **standalone software** in **Visual .NET 2008** and **mobile applications** using **AppInventor**.
-- Created and maintained **websites** using **PHP**, **MySQL**, **AJAX**, **JavaScript**, **WordPress**, and **Joomla**.
-- Worked on **object-oriented programming** in **Java** and **Visual Studio**.
-- Provided **Linux system administration** (Fedora, Ubuntu) and **PC repair** services.
-- Gained advanced knowledge in **SQL**, **Transact-SQL**, and **low-level programming languages** such as **C++**, **QBasic**, **Cobol**, and **Clipper5**.
+### <span style="color: #14b8a6;">Win Systems</span> · <span style="color: #475569;">Remote</span>
 
----
+**QA Automation Engineer** · *Ene 2023 – Presente*
 
-## 🚀 Key Projects & Achievements
+- 🧪 Liderazgo técnico en automatización backend con **Karate Framework**, **Java** y **Microsoft SQL Server**.
+- ⚙️ Desarrollo y mantenimiento de scripts automatizados integrados en pipelines **Jenkins CI/CD**.
+- 📊 Implementación de pruebas de carga con **Gatling** dentro de suites funcionales de Karate.
+- 🤝 Colaboración con equipos cross-funcionales para mejorar cobertura y confiabilidad de sistemas.
 
-- 🧪 **Implemented PyTest with Selenium** following the **Page Object Model (POM)** design pattern, improving test reusability and maintainability.
-- ⚡ **Integrated Gatling load testing** within **Karate Framework**, enabling combined functional and performance testing in a single suite.
-- 🔄 Automated CI/CD test pipelines for API and backend testing workflows.
-- 📈 Improved test execution efficiency and coverage through automation strategy optimization.
+`Karate` `Java` `Maven` `Jenkins` `CI/CD` `Gatling` `JavaScript` `SQL Server` `Agile` `Gherkin` `API Testing` `Postman` `SOAPUI`
 
 ---
 
-## 🧰 Tools & Technologies
+**Senior QA Analyst** · *Jun 2017 – Ene 2023 · 5 años 8 meses*
 
-| Category | Technologies |
-|----------|--------------|
-| **Test Automation** | Karate Framework, Selenium, PyTest, Cucumber, Gatling |
-| **Programming & Frameworks** | Java, Spring Boot, JPA, Hibernate, Vue.js, JavaScript, Python, Scala, Visual .NET, C# |
-| **Databases** | Microsoft SQL Server, MySQL, Oracle |
-| **DevOps** | Jenkins, Git, GitHub, Bitbucket, Maven, CI/CD |
-| **Platforms & IDEs** | AWS, IntelliJ IDEA, PyCharm, VS Code, XAMPP |
-| **QA Processes** | REST API Testing, E2E Testing, Smoke Testing, Test Case Creation, Bug Reporting |
-| **Methodologies** | Agile, Scrum, Software Testing, Documentation |
-| **AI Tools** | ChatGPT, DeepSeek, GitHub Copilot |
+- ✅ Diseño y ejecución de casos de prueba manuales y automatizados para backend.
+- 📦 Validación de datos con **JSON** y consultas complejas en **Microsoft SQL Server**.
+- 🔄 Soporte a estrategias de integración continua y mejora de procesos QA.
+
+`QA Analysis` `SQL Server` `JSON` `Regression Testing` `API Validation` `Agile`
 
 ---
 
-## 🗣 Languages
+### <span style="color: #14b8a6;">Accenture</span> · <span style="color: #475569;">Rosario, Santa Fe</span>
 
-| Language | Level | Speaking | Reading | Writing |
-|----------|-------|----------|---------|---------|
-| Spanish | 🟢 Native | 🟢 Native | 🟢 Native | 🟢 Native |
-| English | 🔵 A2 | 🔵 Basic | 🟡 Intermediate | 🟡 Basic-Intermediate |
-| French | 🟡 B1 | 🟡 Intermediate | 🟡 Intermediate | 🟡 Intermediate |
-| Portuguese | 🔵 A2 | 🔵 Basic | 🟡 Intermediate | 🔵 Basic |
+**QA & Functional Analyst | Software Engineering Associate** · *2014 – 2017 · 3 años*
 
+- 📋 Análisis funcional y pruebas de calidad en entornos empresariales.
+- 🤖 Automatización de pruebas para **SAP** utilizando **HP Quality Center (HPQC)**.
+- 🎓 Capacitación en **Oracle SQL TRANSACT** y testing en integración continua.
 
-#### * French Certification B1 TEF Les Français Des Affaires
----
-
-## 🤝 Collaborations & Family Projects
-
-### 🎨 Creative Partnerships
-- **María Tapia** — *Illustrator & Graphic Designer*  
-  📂 Portfolio: [Behance](https://www.behance.net/mariatapia2)  
-  ✨ *Expertise: Digital Illustration · Branding · Visual Design*
+`SQL Server` `Scrum` `SAP Automation` `Oracle SQL` `QA Testing` `CI`
 
 ---
 
-### 💻 Projects 2025
+### <span style="color: #14b8a6;">Freelance / Independent Consultant</span> · <span style="color: #475569;">Posadas, Misiones</span>
 
-#### 🚀 Day Care Center Management
-- **Tech Stack:** Javascript · Java Spring Boot API · Maven · JPA · MySQL  
-- **Features:** JWT Authentication · Swagger Documentation · Vue.js Frontend  
-- 📂 Repository: [GitHub](https://github.com/pautapia1/day-care-center-repository)
+**Systems Analyst & Developer** · *Ago 2008 – May 2014 · 5 años 10 meses*
+
+- 💻 Desarrollo de software standalone en **Visual .NET 2008** y apps móviles con **AppInventor**.
+- 🌐 Sitios web con **PHP**, **MySQL**, **AJAX**, **JavaScript**, **WordPress**, **Joomla**.
+- 🧠 Programación orientada a objetos en **Java** y **Visual Studio**.
+- 🐧 Administración de servidores **Linux (Fedora, Ubuntu)** y servicios de reparación de PC.
+- ⚙️ Conocimientos avanzados en **SQL**, **Transact-SQL**, **C++**, **QBasic**, **Cobol** y **Clipper5**.
 
 ---
 
-#### 🧪 Day Care Center Management — Karate Tests
-- **Tech Stack:** Karate · Maven · MySQL Driver  
-- **Purpose:** Automated testing suite for the Day Care Center Management system  
-- 📂 Repository: [GitHub](https://github.com/pautapia1/day-care-center-karate)
+## <span style="color: #1e3a8a;">🚀 Proyectos destacados</span>
 
+### <span style="color: #14b8a6;">Day Care Center Management</span> · *2025*
+
+| Área | Tecnologías |
+|------|--------------|
+| **Backend** | Java Spring Boot, JPA, Hibernate, Maven, JWT, Swagger |
+| **Frontend** | Vue.js, JavaScript |
+| **Base de datos** | MySQL |
+| **Automatización** | Karate Framework, MySQL Driver, Maven |
+
+**📁 Repositorios:**
+- [Backend + Frontend](https://github.com/pautapia1/day-care-center-repository)
+- [Pruebas Karate](https://github.com/pautapia1/day-care-center-karate)
+- [PilotAI – Análisis con IA](https://github.com/pautapia1/PilotAI)
+
+---
+
+### <span style="color: #14b8a6;">Otros proyectos técnicos</span>
+
+- 🧪 **PyTest + Selenium con Page Object Model (POM):** Framework E2E que mejora reusabilidad y mantenimiento.
+- ⚡ **Integración Gatling + Karate:** Solución propietaria que combina pruebas funcionales y de performance en una misma suite.
+- 🔁 **CI/CD automatizado:** Pipelines para testing de APIs y backend.
+
+---
+
+## <span style="color: #1e3a8a;">🛠️ Herramientas y tecnologías</span>
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Test Automation** | Karate Framework, Selenium, PyTest, Cucumber, Gatling, SOAPUI, Postman |
+| **Programming Languages** | Java, JavaScript, Python, Scala, C#, Visual .NET, PHP, C++, Cobol |
+| **Backend Development** | Java, Spring Boot, JPA, Hibernate, APIs REST, JWT, Swagger, Maven, Microservices |
+| **Frontend** | Vue.js, JavaScript, AJAX, WordPress, Joomla |
+| **Databases** | Microsoft SQL Server, MySQL, Oracle SQL, Transact-SQL |
+| **DevOps & CI/CD** | Jenkins, Git, GitHub, Bitbucket, Maven, Pipelines CI/CD |
+| **Platforms & IDEs** | AWS, IntelliJ IDEA, PyCharm, VS Code, XAMPP, Linux (Fedora, Ubuntu) |
+| **QA Processes** | REST API Testing, E2E Testing, Smoke Testing, Test Case Creation, Bug Reporting, Gherkin |
+| **Methodologies** | Agile, Scrum, Software Testing, Documentation, OOP |
+| **AI Tools (Uso activo)** | ChatGPT, DeepSeek, GitHub Copilot, Gemini, Antigravity, Cloud |
+
+> <span style="color: #14b8a6;">💡 **Nota sobre AI Tools:**</span> Uso activo estas herramientas para generación de código de pruebas, refactorización, documentación automática, debugging asistido y optimización de pipelines. Son multiplicadores de productividad en mi flujo diario.
+
+---
+
+## <span style="color: #1e3a8a;">📚 Educación y certificaciones</span>
+
+- 🎓 **Systems Analyst** – [Universidad / Instituto]
+- 🧑‍💻 **Programmer** – [Institución]
+- 🇫🇷 **Francés B1** – TEF Les Français Des Affaires
+- 📖 **Formación continua:** Oracle SQL, Testing Ágil, Karate Advanced
+
+---
+
+## <span style="color: #1e3a8a;">🌐 Idiomas</span>
+
+| Idioma | Nivel | Conversación | Lectura | Escritura | Certificación |
+|--------|-------|--------------|---------|-----------|----------------|
+| Español | 🟢 Nativo | Nativo | Nativo | Nativo | - |
+| Inglés | 🟡 A2 | Básico | Intermedio | Básico | - |
+| Francés | 🔵 B1 | Intermedio | Intermedio | Intermedio | TEF Les Français Des Affaires |
+| Portugués | 🟡 A2 | Básico | Intermedio | Básico | - |
+
+---
+
+## <span style="color: #1e3a8a;">🤝 Colaboraciones</span>
+
+**María Tapia** – Ilustradora y Diseñadora Gráfica  
+🎨 [Portafolio Behance](https://www.behance.net/mariatapia2)  
+*Colaboraciones ocasionales en proyectos que requieren integración de diseño y desarrollo.*
+
+---
+
+<div align="center">
+  <sub style="color: #94a3b8;">✨ CV actualizado – 2026 ✨</sub>
+</div>
