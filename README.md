@@ -138,6 +138,3 @@ Combino habilidades técnicas sólidas (Java, SQL Server, Jenkins) con el uso ac
 
 ---
 
-<div align="center">
-  <sub style="color: #94a3b8;">✨ CV actualizado – 2026 ✨</sub>
-</div>
