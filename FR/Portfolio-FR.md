@@ -134,5 +134,5 @@ Je combine des compétences techniques solides (Java, SQL Server, Jenkins) avec 
 ---
 
 <div align="center">
-  <a href="https://github.com/pautapia1/portfolio/blob/main/README.md" style="background-color: #4A90E2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 25px; display: inline-block; font-weight: bold;">🔙 Volver al menú</a>
+  <a href="https://github.com/pautapia1/portfolio/blob/main/README.md" style="background-color: #4A90E2; color: white; padding: 8px 16px; text-decoration: none; border-radius: 25px; display: inline-block; font-weight: bold; margin: 0 5px;">🔙 Retour au menu</a>
 </div>

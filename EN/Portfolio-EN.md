@@ -134,5 +134,5 @@ I combine solid technical skills (Java, SQL Server, Jenkins) with the active use
 ---
 
 <div align="center">
-  <a href="https://github.com/pautapia1/portfolio/blob/main/README.md" style="background-color: #4A90E2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 25px; display: inline-block; font-weight: bold;">🔙 Volver al menú</a>
+  <a href="https://github.com/pautapia1/portfolio/blob/main/README.md" style="background-color: #4A90E2; color: white; padding: 8px 16px; text-decoration: none; border-radius: 25px; display: inline-block; font-weight: bold; margin: 0 5px;">🔙 Back to menu</a>
 </div>
