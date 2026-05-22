@@ -21,5 +21,5 @@
 ## 🌐 Portafolio
 
 - [🇪🇸 Español](https://github.com/pautapia1/portfolio/blob/main/ES/Portfolio-ES.md) `ES`
-- [🇬🇧 English](https://github.com/pautapia1/portfolio/blob/main/EN/Portfolio-EN.md) `EN`
-- [🇫🇷 Français](https://github.com/pautapia1/portfolio/blob/main/FR/Portfolio-FR.md) `FR`
+- [En Inglés](https://github.com/pautapia1/portfolio/blob/main/EN/Portfolio-EN.md) `EN`
+- [🇫🇷 Francés](https://github.com/pautapia1/portfolio/blob/main/FR/Portfolio-FR.md) `FR`
