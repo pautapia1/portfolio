@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #3b82f6;">✦ Paula Tapia ✦</h1>
-  <h3 style="color: #1e293b;">Senior QA Automation Engineer</h3>
+  <h3 style="color: #1e293b;">Senior QA Automation</h3>
   <p>
     <a href="mailto:paula.tapia@email.com" style="color: #3b82f6;">📧 paula.tapia@email.com</a> |
     <a href="https://linkedin.com/in/paula-tapia-2b8555111" style="color: #3b82f6;">🔗 LinkedIn</a>
@@ -11,7 +11,7 @@
 
 ## <span style="color: #3b82f6;">🎯 Sobre mí</span>
 
-Senior QA Automation Engineer, especialista en **automatización backend con Karate Framework**, integración continua y pruebas de APIs.  
+Senior QA Automation, especialista en **automatización backend con Karate Framework**, integración continua y pruebas de APIs.  
 Combino habilidades técnicas sólidas (Java, SQL Server, Jenkins) con el uso activo de **herramientas de inteligencia artificial** para acelerar el desarrollo de pruebas, generar documentación y optimizar pipelines de CI/CD.
 
 
